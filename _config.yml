@@ -23,12 +23,12 @@ footer-links:
   email: killogge@gmail.com
   facebook: cory.r.perry
   flickr:
-  github: muraj/muraj.github.io
+  github: muraj
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: users/7340966/muraj # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: +CoryPerry87 # anything in your profile username that comes after plus.google.com/
