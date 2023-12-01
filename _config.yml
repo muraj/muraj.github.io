@@ -62,7 +62,10 @@ author:
   avatar : "https://gravatar.com/avatar/39a4e7d053e8b405ab1673eae9a9b31abfcd797a3888b63a1e107cd6d2b91728?size=128"
   bio    : "Software Developer with crazy ideas and interests."
   links:
-    - label: "Website"
+    - label: "Sunnyvale, CA"
+      icon: "fa-solid fa-location-dot"
+      url: "https://maps.google.com/?q=Sunnyvale+CA"
+    - label: "Random Thoughts"
       icon: "fas fa-fw fa-link"
       url: "https://muraj.github.io"
     - label: "GitHub"
